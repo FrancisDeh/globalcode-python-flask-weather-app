@@ -9,4 +9,6 @@ The website is built using the Python Flask framework, and makes an api call to 
 #3. The Wind, Temperature (in degrees) and humidity is sent to the front end displayed to the user.
 NB: Exceptions are not caught if the location does not exist.
 
+The files contain a screenshot of the website
+
 Built during Global Code Summer Camp, July 2 - 22, 2018, UCC, Cape Coast.
